@@ -1,0 +1,58 @@
+
+.nav2{
+    padding-right: auto;
+    
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    gap: 6.5rem;
+}
+.lable{
+    display: flex;
+    padding-top: 6.5rem;
+    gap: 2rem;
+}
+.lableimg{
+    display:flex ;
+    gap: 5rem;
+    flex-direction: column;
+    padding-top:4rem;
+    
+}
+.contact{
+    padding-top: 6.5rem;
+}
+.div{display: flex;
+
+}   
+
+.footerNavbarAbout{
+    /* About us */
+
+width: 79px;
+height: 23px;
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+/* identical to box height */
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+.img {
+    border: 2px solid black;
+    border-radius: 2px solid black;
+
+
+}
